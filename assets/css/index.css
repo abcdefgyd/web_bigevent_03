@@ -52,7 +52,5 @@ a {
   text-align: center;
   font-size: 20px;
   color: #fff;
-  position: relative;
-  top: 4px;
-  margin-right: 10px;
+ vertical-align: middle;
 }
